@@ -45,3 +45,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Disclaimer ⚠️
 
 This extension is not affiliated with or endorsed by the Indian Premier League (IPL) or any of its teams. The extension is created for informational purposes and to enhance the user's IPL experience.
+# IPLScore
